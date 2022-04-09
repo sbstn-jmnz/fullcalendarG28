@@ -5,7 +5,7 @@
     "bootstrap": "^4.4.1",
     "fullcalendar": "^3.10.1",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "popper.js": "^1.16.1"
   }
 }
